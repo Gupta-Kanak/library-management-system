@@ -11,7 +11,7 @@ class DB
 {
     static final String URL = "jdbc:mysql://localhost:3306/Library";
     static final String user = "root";
-    static final String pass = "2004";
+    static final String pass = "**";
     static Connection conn;
     static Statement stmt;
 
